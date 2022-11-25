@@ -1,0 +1,1 @@
+This is only the Text file , which I am storing inside the static file}
